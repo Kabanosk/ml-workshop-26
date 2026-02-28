@@ -1,3 +1,6 @@
+# Cheatsheet
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/lectures/cheatsheet.ipynb)
+
 # Zajęcia pierwsze
 ## Wstęp do sztucznej inteligencji
 [link do prezentacji](https://www.canva.com/design/DAGgNmjTJ0U/zymg4CnBBRuUJSh7Yfu0zQ/view?utm_content=DAGgNmjTJ0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h82eb77f7f5)
