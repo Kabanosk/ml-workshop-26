@@ -32,8 +32,8 @@
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/03.3%20-%20dirty_data_ex.ipynb)
 
 # Zajęcia czwarte
-## Drzewa decyzyjne (Part 1)
-[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/04.1%20-%20decision_trees_part_1_ex.ipynb)
+## Drzewa decyzyjne (Wprowadzenie)
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/04.1%20-%20decision_trees_intro_ex.ipynb)
 
-## Drzewa decyzyjne (Part 2)
-[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/04.2%20-%20decision_trees_part_2_ex.ipynb)
+## Drzewa decyzyjne (Sklearn)
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/04.2%20-%20decision_trees_sklearn_ex.ipynb)
