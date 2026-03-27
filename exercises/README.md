@@ -37,3 +37,11 @@
 
 ## Drzewa decyzyjne (Sklearn)
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/04.2%20-%20decision_trees_sklearn_ex.ipynb)
+
+# Zajęcia piąte
+
+## Regresja logistyczna
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/05.1%20-%20logistic_regression_ex.ipynb)
+
+## SGD
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/05.2%20-%20stochastic_gradient_decent_ex.ipynb)
