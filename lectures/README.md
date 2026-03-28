@@ -55,3 +55,7 @@
 ## Regresja logistyczna
 
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/lectures/05.1%20-%20logistic_regression.ipynb)
+
+## Pochodne + SGD
+
+[link do prezentacji](https://www.canva.com/design/DAGnoNgtevU/DhsSUN13DTcWY-Dd9QO4og/edit)
