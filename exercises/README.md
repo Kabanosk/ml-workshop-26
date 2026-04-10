@@ -45,3 +45,11 @@
 
 ## SGD
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/05.2%20-%20stochastic_gradient_decent_ex.ipynb)
+
+# Zajęcia szóste
+
+## Sieci neuronowe
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/06.1%20-%20neural_networks_ex.ipynb)
+
+## Sieci neuronowe w PyTorch
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/06.2%20-%20neural_networks_pytorch_ex.ipynb)

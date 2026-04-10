@@ -59,3 +59,10 @@
 ## Pochodne + SGD
 
 [link do prezentacji](https://www.canva.com/design/DAGnoNgtevU/DhsSUN13DTcWY-Dd9QO4og/edit)
+
+# Zajęcia szóste
+## Sieci neuronowe - wprowadzenie
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/lectures/06.1%20-%20neural_networks_intro.ipynb)
+
+## Podstawy PyTorch i sieci neuronowych
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/lectures/06.2%20-%20pyTorch_and_nn_basics.ipynb)
