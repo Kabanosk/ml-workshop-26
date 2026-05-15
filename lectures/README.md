@@ -66,3 +66,10 @@
 
 ## Podstawy PyTorch i sieci neuronowych
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/lectures/06.2%20-%20pyTorch_and_nn_basics.ipynb)
+
+# Zajęcia siódme
+## NLP - wprowadzenie
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/lectures/07.1%20-%20introduction_to_nlp.ipynb)
+
+## Embeddingi - wprowadzenie
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/lectures/07.2%20-%20introduction_to_embeddings.ipynb)
