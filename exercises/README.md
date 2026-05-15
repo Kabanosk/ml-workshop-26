@@ -53,3 +53,11 @@
 
 ## Sieci neuronowe w PyTorch
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/06.2%20-%20neural_networks_pytorch_ex.ipynb)
+
+# Zajęcia siódme
+
+## NLP
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/07.1%20-%20introduction_to_nlp_ex.ipynb)
+
+## Embeddingi
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-26/blob/main/exercises/07.2%20-%20introduction_to_embeddings_ex.ipynb)
